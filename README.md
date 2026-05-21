@@ -1,6 +1,6 @@
 # ResumeIQ — NLP-Based Resume Screening System
 
-> **Suyash's Black Book Project** | Automated Resume Classification using TF-IDF + SVC
+> **Suyash project resume screening using nlp** | Automated Resume Classification using TF-IDF + SVC
 
 A full-stack application that automatically classifies resumes into 25 professional job categories using Natural Language Processing and supervised Machine Learning.
 
@@ -229,5 +229,5 @@ curl -X POST http://localhost:8000/predict/text \
 
 ## 👨‍💻 Author
 
-**Suyash** | Black Book Project  
+**Suyash** | Project  
 NLP & Machine Learning based Resume Screening System
